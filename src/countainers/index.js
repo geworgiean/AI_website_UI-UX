@@ -1,5 +1,5 @@
 export {default as Blog} from './blog/Blog'
-export {default as Featrues} from './features/Features'
+export {default as Featrues} from './feature/Feature'
 export {default as Footer} from './footer/Footer'
 export {default as Header} from './header/Header'
 export {default as Possibillity} from './possibillity/Possibillity'
